@@ -37,7 +37,7 @@ This project is built to practice Android development and understand how modern 
 ## 📥 Download
 
 👉 Download the latest APK from here:
-🔗 https://github.com/J/NetflixCloneApp/releases/tag/v1.0
+🔗 (https://github.com/rajeshgaikwad0209-prog/NetflixCloneApp/releases/tag/v1.0)
 
 ---
 
